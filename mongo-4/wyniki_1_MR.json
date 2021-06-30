@@ -1,0 +1,26 @@
+MongoDB shell version v3.6.23
+connecting to: mongodb://127.0.0.1:27017/nbd?gssapiServiceName=mongodb
+Implicit session: session { "id" : UUID("7284715e-cbf3-42a8-aedd-69b99af35786") }
+MongoDB server version: 3.6.23
+{
+	"wzrost" : [
+		{
+			"_id" : "Female",
+			"value" : 167.19923791836857
+		},
+		{
+			"_id" : "Male",
+			"value" : 167.53327672419113
+		}
+	],
+	"waga" : [
+		{
+			"_id" : "Female",
+			"value" : 70.02860826293316
+		},
+		{
+			"_id" : "Male",
+			"value" : 69.61188737011288
+		}
+	]
+}
