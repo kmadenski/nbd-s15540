@@ -1,6 +1,6 @@
 ﻿[
   {
-    "directors": {
+    "director": {
 "identity": 108,
 "labels": [
         "Person"
@@ -12,7 +12,7 @@
     }
   },
   {
-    "directors": {
+    "director": {
 "identity": 6,
 "labels": [
         "Person"
@@ -24,7 +24,7 @@
     }
   },
   {
-    "directors": {
+    "director": {
 "identity": 5,
 "labels": [
         "Person"
@@ -36,7 +36,7 @@
     }
   },
   {
-    "directors": {
+    "director": {
 "identity": 25,
 "labels": [
         "Person"
@@ -48,7 +48,7 @@
     }
   },
   {
-    "directors": {
+    "director": {
 "identity": 6,
 "labels": [
         "Person"
@@ -60,7 +60,7 @@
     }
   },
   {
-    "directors": {
+    "director": {
 "identity": 5,
 "labels": [
         "Person"
@@ -72,7 +72,7 @@
     }
   },
   {
-    "directors": {
+    "director": {
 "identity": 6,
 "labels": [
         "Person"
@@ -84,7 +84,7 @@
     }
   },
   {
-    "directors": {
+    "director": {
 "identity": 5,
 "labels": [
         "Person"
@@ -96,7 +96,7 @@
     }
   },
   {
-    "directors": {
+    "director": {
 "identity": 6,
 "labels": [
         "Person"
@@ -108,7 +108,7 @@
     }
   },
   {
-    "directors": {
+    "director": {
 "identity": 5,
 "labels": [
         "Person"
